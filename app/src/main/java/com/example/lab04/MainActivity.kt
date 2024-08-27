@@ -36,7 +36,7 @@ fun ScaffoldExample() {
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("rama main") }
+                title = { Text("Scaffold Example") }
             )
         },
         floatingActionButton = {
